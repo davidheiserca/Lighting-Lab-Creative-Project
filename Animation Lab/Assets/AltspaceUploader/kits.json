@@ -6,25 +6,7 @@
             "IsEnabled": true,
             "UploadItems": [
                 {
-                    "PrefabFilepath": "Assets\\Prefabs\\1947316821556200225_pendulum_and_ball\\Environment.prefab",
-                    "ForAndroid": true,
-                    "ForWin": true,
-                    "ForMac": true
-                },
-                {
-                    "PrefabFilepath": "Assets\\Prefabs\\1947316821556200225_pendulum_and_ball\\Pendulum and Ball.prefab",
-                    "ForAndroid": true,
-                    "ForWin": true,
-                    "ForMac": true
-                },
-                {
-                    "PrefabFilepath": "",
-                    "ForAndroid": true,
-                    "ForWin": true,
-                    "ForMac": true
-                },
-                {
-                    "PrefabFilepath": "Assets/Prefabs/1947316821556200225_pendulum_and_ball/Pendulum and Ball.prefab",
+                    "PrefabFilepath": "Assets/Prefabs/1947316821556200225_pendulum_and_ball/Pendulum and Ball (2).prefab",
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
