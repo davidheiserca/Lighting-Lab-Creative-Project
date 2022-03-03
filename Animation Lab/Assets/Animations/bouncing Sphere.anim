@@ -949,7 +949,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.33333334
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -958,7 +958,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.6666667
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -967,7 +967,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -976,7 +976,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.3333334
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -985,7 +985,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.6666666
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -994,7 +994,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1003,7 +1003,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2.3333333
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1012,7 +1012,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2.6666667
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1021,7 +1021,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 3
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1030,15 +1030,6 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 3.3333333
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 3.6666667
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -1047,8 +1038,17 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 4
+        time: 3.6666667
         value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1058,10 +1058,10 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_Enabled
-    path: Police_Vehicle_Low-Poly/Sketchfab_model/c542dc37959742d9a7f8b81c3feb220b.fbx/RootNode/Police_car/Police_car_Car_Texture_2_0/Capsule
-      - Red
-    classID: 23
+    attribute: m_IsActive
+    path: Police_Vehicle_Low-Poly/Sketchfab_model/c542dc37959742d9a7f8b81c3feb220b.fbx/RootNode/Police_car/Police_car_Car_Texture_2_0/Flash
+      A
+    classID: 1
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
@@ -1077,7 +1077,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.33333334
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1086,7 +1086,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.6666667
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1095,7 +1095,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1104,7 +1104,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.3333334
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1113,7 +1113,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.6666666
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1122,7 +1122,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1131,7 +1131,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2.3333333
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1140,7 +1140,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2.6666667
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1149,7 +1149,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 3
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1158,15 +1158,6 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 3.3333333
-        value: 0
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 3.6666667
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -1175,8 +1166,17 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 4
+        time: 3.6666667
         value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1186,10 +1186,10 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_Enabled
-    path: Police_Vehicle_Low-Poly/Sketchfab_model/c542dc37959742d9a7f8b81c3feb220b.fbx/RootNode/Police_car/Police_car_Car_Texture_2_0/Capsule
-      - Blue
-    classID: 23
+    attribute: m_IsActive
+    path: Police_Vehicle_Low-Poly/Sketchfab_model/c542dc37959742d9a7f8b81c3feb220b.fbx/RootNode/Police_car/Police_car_Car_Texture_2_0/Flash
+      B
+    classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
   m_SampleRate: 60
@@ -1256,17 +1256,17 @@ AnimationClip:
       customType: 25
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2388184912
-      attribute: 3305885265
+      path: 2547354792
+      attribute: 2086281974
       script: {fileID: 0}
-      typeID: 23
+      typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2284731489
-      attribute: 3305885265
+      path: 249355538
+      attribute: 2086281974
       script: {fileID: 0}
-      typeID: 23
+      typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
@@ -3159,7 +3159,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.33333334
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3168,7 +3168,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.6666667
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3177,7 +3177,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3186,7 +3186,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.3333334
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3195,7 +3195,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.6666666
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3204,7 +3204,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3213,7 +3213,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2.3333333
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3222,7 +3222,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2.6666667
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3231,7 +3231,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 3
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3240,15 +3240,6 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 3.3333333
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 3.6666667
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -3257,8 +3248,17 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 4
+        time: 3.6666667
         value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3268,10 +3268,10 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_Enabled
-    path: Police_Vehicle_Low-Poly/Sketchfab_model/c542dc37959742d9a7f8b81c3feb220b.fbx/RootNode/Police_car/Police_car_Car_Texture_2_0/Capsule
-      - Red
-    classID: 23
+    attribute: m_IsActive
+    path: Police_Vehicle_Low-Poly/Sketchfab_model/c542dc37959742d9a7f8b81c3feb220b.fbx/RootNode/Police_car/Police_car_Car_Texture_2_0/Flash
+      A
+    classID: 1
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
@@ -3287,7 +3287,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.33333334
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3296,7 +3296,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.6666667
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3305,7 +3305,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3314,7 +3314,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.3333334
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3323,7 +3323,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.6666666
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3332,7 +3332,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3341,7 +3341,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2.3333333
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3350,7 +3350,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 2.6666667
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3359,7 +3359,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 3
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3368,15 +3368,6 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 3.3333333
-        value: 0
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 3.6666667
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -3385,8 +3376,17 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 4
+        time: 3.6666667
         value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -3396,10 +3396,10 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_Enabled
-    path: Police_Vehicle_Low-Poly/Sketchfab_model/c542dc37959742d9a7f8b81c3feb220b.fbx/RootNode/Police_car/Police_car_Car_Texture_2_0/Capsule
-      - Blue
-    classID: 23
+    attribute: m_IsActive
+    path: Police_Vehicle_Low-Poly/Sketchfab_model/c542dc37959742d9a7f8b81c3feb220b.fbx/RootNode/Police_car/Police_car_Car_Texture_2_0/Flash
+      B
+    classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves:
   - curve:
