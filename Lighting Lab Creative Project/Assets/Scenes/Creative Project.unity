@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 5d8abe27cfac7394284e85b43d5682f1, type: 2}
+  m_LightingDataAsset: {fileID: 0}
   m_LightingSettings: {fileID: 4890085278179872738, guid: c86dd0ae7e71a2c41a1d0f97c749a2d2, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -1406,7 +1406,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &94586557
 Transform:
   m_ObjectHideFlags: 0
@@ -4060,7 +4060,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9528302, g: 0.91981107, b: 0.5887772, a: 1}
-  m_Intensity: 10
+  m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -14920,7 +14920,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 1
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1152432221
 Transform:
   m_ObjectHideFlags: 0
@@ -15014,7 +15014,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 119792, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 121804, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
       propertyPath: m_Layer
@@ -15569,7 +15569,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1189902564
 Transform:
   m_ObjectHideFlags: 0
@@ -19521,7 +19521,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &1445857329
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22762,7 +22762,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1679715391
 Transform:
   m_ObjectHideFlags: 0
@@ -22797,7 +22797,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1701599389
 Transform:
   m_ObjectHideFlags: 0
@@ -22998,7 +22998,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1708747246}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -28.73, y: 10.385216, z: -15}
+  m_LocalPosition: {x: -28.49, y: 10.385216, z: -15}
   m_LocalScale: {x: 9.281064, y: 1, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1311376603}
@@ -23487,7 +23487,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!64 &1753395025
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -24075,8 +24075,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1803051340}
   m_LocalRotation: {x: 1, y: 0, z: 0, w: 0}
-  m_LocalPosition: {x: 7.03, y: 8.74, z: 15}
-  m_LocalScale: {x: 0.5, y: 1, z: 0.5125}
+  m_LocalPosition: {x: 7.11, y: 8.74, z: 15}
+  m_LocalScale: {x: 0.53078127, y: 1, z: 0.5125}
   m_Children: []
   m_Father: {fileID: 1253455347}
   m_RootOrder: 1
@@ -24282,7 +24282,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9528302, g: 0.91981107, b: 0.5887772, a: 1}
-  m_Intensity: 10
+  m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
